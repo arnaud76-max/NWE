@@ -1,7 +1,7 @@
 ---
 title: Arnaud Delahaye
 image: ''
-email: email2@example.org
+email: adelahaye@normandiewebschool.fr
 social:
 - icon: ti-facebook
   link: "#"
