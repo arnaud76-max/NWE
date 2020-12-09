@@ -61,7 +61,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-       name: Emmanuel Mouanga-Zou
+  - name: Emmanuel Mouanga-Zou
     image_webp: "/images/photo6.webp"
     image: "/images/photo6.webp"
     designation: Designer
@@ -76,7 +76,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-       name: Arnaud Delahaye
+  - name: Arnaud Delahaye
     image_webp: "/images/photo6.webp"
     image: "/images/photo6.webp"
     designation: Développeur web
