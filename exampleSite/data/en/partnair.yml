@@ -34,8 +34,8 @@ partnair:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: ''
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
+    image: ''
+    image_webp: ''
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
