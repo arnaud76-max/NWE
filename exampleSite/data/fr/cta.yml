@@ -2,7 +2,7 @@
 cta:
   enable: true
   bg_image: "/images/fond.png"
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image_webp: "/images/fond.webp"
   title: Great Design & Incredible Features
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
     odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
