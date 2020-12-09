@@ -38,7 +38,7 @@ weight = 5
 [[menu.main]]
 name = "Contact"
 pre = "#"
-url = "pricing"
+url = "contact"
 weight = 4
 [[menu.main]]
 name = "Membre du bureau"
