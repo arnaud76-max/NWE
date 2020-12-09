@@ -62,7 +62,7 @@ team:
     - icon: ti-dribbble
       link: "#"
        name: Emmanuel Mouanga-Zou
-  - image_webp: "/images/photo6.webp"
+    image_webp: "/images/photo6.webp"
     image: "/images/photo6.webp"
     designation: Designer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
