@@ -19,7 +19,7 @@ partnair:
     link: ''
   - name: Clock Product
     image: "/images/nws-copie.png"
-    image_webp: ''
+    image_webp: "/images/nws-copie.webp"
     categories:
     - design
     - development
