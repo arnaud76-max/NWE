@@ -3,6 +3,18 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Gauthier Cauchois
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -33,10 +45,8 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Raphael Richard
-    image_webp: images/team/team-3.webp
+  - image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Trésorerier
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -48,6 +58,8 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+    name: Arnaud Delahaye
+    designation: Développeur web
   - name: Amelie Mauger
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
