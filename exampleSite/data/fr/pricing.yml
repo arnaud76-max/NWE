@@ -28,7 +28,7 @@ pricing:
       label: Signup
       link: "#"
   - name: Annuelle
-    price: 25€
+    price: 30€
     unit: ''
     services:
     - 24/7 Tech Support
