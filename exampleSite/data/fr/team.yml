@@ -24,10 +24,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Emmanuel Mouanga-zou
-    image_webp: images/team/team-3.webp
-    image: images/team/team-3.jpg
-    designation: Designer
+  - name: Amelie Mauger
+    image_webp: images/team/team-4.webp
+    image: images/team/team-4.jpg
+    designation: Commercial
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -39,10 +39,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Amelie Mauger
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
-    designation: Commercial
+  - name: Emmanuel Mouanga-zou
+    image_webp: images/team/team-3.webp
+    image: images/team/team-3.jpg
+    designation: Designer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
