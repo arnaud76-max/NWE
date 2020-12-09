@@ -9,7 +9,6 @@ team:
     designation: Organisateur d'événements
     content: 
     social:
-     social:
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
