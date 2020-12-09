@@ -36,7 +36,7 @@ pre = "#"
 url = "blog"
 weight = 5
 [[menu.main]]
-name = "Evènements"
+name = "Evénements"
 pre = "#"
 url = "portfolio"
 weight = 2
@@ -56,7 +56,7 @@ pre = "#"
 url = "about"
 weight = 1
 [[menu.main]]
-name = "partnairt"
+name = "partenaires"
 pre = "#"
 url = "partnair"
 weight = 8
