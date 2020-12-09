@@ -3,10 +3,10 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: ''
+  - name: Raphael Richard
     image_webp: ''
     image: ''
-    designation: ''
+    designation: Trésorier
     content: ''
     social: ''
   - name: 'Amelie Mauger '
