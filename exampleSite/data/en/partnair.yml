@@ -3,7 +3,7 @@ partnair:
   enable: true
   title: partnair
   portfolio_item:
-  - name: Tag Design
+  - name: ''
     image: "/images/logo-metropole.jpg"
     image_webp: "/images/logo-metropole-copie.webp"
     categories:
