@@ -10,9 +10,9 @@ partnair:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
-  - name: Sound system
+  - name: ''
     image: "/images/nwx-e1549538125325.png"
-    image_webp: ''
+    image_webp: "/images/nwx-e1549538125325.webp"
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
