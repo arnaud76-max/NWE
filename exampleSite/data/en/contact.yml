@@ -1,8 +1,8 @@
 ---
 contact:
   enable: true
-  title: Contact Us
-  subtitle: Contact Details
+  title: Contactez nous
+  subtitle: ''
   content: ''
   contact_list:
   - icon: ti-location-pin
