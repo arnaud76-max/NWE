@@ -3,6 +3,12 @@ team:
   enable: true
   title: Our Team
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Arnaud Delahaye
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -33,10 +39,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Fabien Gasquier
+  - name: Emmanuel Mouanga-zou
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Web Developer
+    designation: Designer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
