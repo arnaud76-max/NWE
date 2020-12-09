@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: Our Plans
+  title: Cotisation
   pricing_table:
   - name: Annuelle
     price: 10€
