@@ -95,8 +95,8 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader = "/images/fond-copie.png"
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
