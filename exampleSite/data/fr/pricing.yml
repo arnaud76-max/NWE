@@ -28,7 +28,7 @@ pricing:
       label: Signup
       link: "#"
   - name: Platinum
-    price: "$299"
+    price: 25€
     unit: month
     services:
     - 1GB Disk Space
