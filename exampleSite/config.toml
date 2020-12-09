@@ -31,12 +31,17 @@ pre = "#"
 url = "contact"
 weight = 6
 [[menu.main]]
+name = "Nos partenaires"
+pre = "#"
+url = "partnair"
+weight = 8
+[[menu.main]]
 name = "Evènements"
 pre = "#"
 url = "portfolio"
 weight = 2
 [[menu.main]]
-name = "blog"
+name = "Parrainer"
 pre = "#"
 url = "blog"
 weight = 5
