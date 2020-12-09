@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
-  bg_image: ''
+  bg_image_webp: "/images/fond-copie.webp"
+  bg_image: "/images/fond-copie.png"
   icon: ''
   title: Bienvenue sur le site de la NWE
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
