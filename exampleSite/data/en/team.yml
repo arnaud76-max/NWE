@@ -10,8 +10,8 @@ team:
     content: ''
     social: ''
   - name: Gauthier Cauchois
-    image_webp: 
-    image: 
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
     designation: Organisateur d'événements
     content: 
     social:
