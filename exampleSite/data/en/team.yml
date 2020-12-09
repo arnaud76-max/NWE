@@ -1,11 +1,16 @@
-
 ---
 team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: ''
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
+    designation: ''
+    content: ''
+    social: ''
   - name: Gauthier Cauchois
-    image_webp:   
+    image_webp: 
     image: 
     designation: Organisateur d'événements
     content: 
