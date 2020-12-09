@@ -8,14 +8,14 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #353b43;
-  color: #737f8a;
+  background-color:  rgb(211, 14, 106);
+  color: #0daeee;
 }
 
 body {
-  background-color: whitesmoke;
+  background-image:url("exempleSite/static/images/fond.png");
   font-family: "Anaheim", sans-serif;
-  color: #737f8a;
+  color: rgb(80, 5, 40) ;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #afbac4;
+  color:#f5efe6;
 }
 
 p {
@@ -41,6 +41,105 @@ p {
 pre {
   color: #afbac4;
 }
+/*=================================================================
+  Connection d'un compte
+==================================================================*/
+#logreg-forms
+{
+  width: 412px;
+  margin:10vh auto;
+  background-color: #f3f3f3;
+  border-radius:6px;
+  box-shadow: 1px 2px 4px rgba(0,0,0,0,12), 0 1px 2px rgba(0, 0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  border: 1px solid #3c589c;
+}
+#logreg-forms form
+{
+  width:100%;
+  max-width:410px;
+  padding: 15px;
+  margin: auto;
+}
+#logreg-forms .form-control
+{
+  position:relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+#logreg-forms .form-control :focus
+{
+  z-index: z;
+}
+#logreg-forms .form-connexion input [type="email"]
+{
+ margin-bottom: -10px;
+ border-bottom-right-radius: 0;
+ border-bottom-left-radius: 0;
+}
+
+#logreg-forms .form-connexion input [type="password"]
+{
+ margin-bottom: -10px;
+ border-top-right-radius: 0;
+ border-top-left-radius: 0;
+}
+#logreg-forms .social-login
+{
+ width: 390px;
+ margin: 0 auto;
+ margin-bottom: 14px;
+}
+#logreg-forms .social-btn
+{
+ font-weight: 100px;
+ width: 390px;
+ color: white;
+ margin-bottom: 14px;
+ font-size: 0.9rem;
+}
+#logreg-forms a
+{
+  display: block;
+  padding-top: 10px;
+  color: lightseagreen;
+}
+#logreg-forms .lines
+{
+  width: 200px;
+  border:1px solid red;
+}
+#logreg-forms button[type="submit"]
+{
+  margin-top: 10px;
+}
+#logreg-forms .facebook-btn
+{
+  background-color: #3c589c;
+}
+#logreg-forms .google-btn
+{
+  background-color:#DF483B;
+}
+#logreg-forms .form-rest, #logreg-forms .form-inscription-btn
+{
+  display: none;
+}
+#logreg-forms .form-inscription .social-btn
+{
+  width: 390px;
+}
+#logreg-forms .form-inscription input
+{
+  margin-bottom: 2px;
+}
+.form-inscription .social-login
+{
+  width: 390px !important;
+  margin:0 auto;
+}
 
 /*=================================================================
   Basic Setup
@@ -52,7 +151,7 @@ pre {
 }
 
 ::selection {
-  color: #fff;
+  color: #0daeee;
   background: #57cbcc;
 }
 
@@ -65,7 +164,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: rgb(212, 28, 68);
   transition: all .3s ease-in 0s;
 }
 
@@ -82,7 +181,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: #4B97D1;
 }
 
 .kill-margin-bottom {
@@ -99,7 +198,7 @@ a:hover {
 
 .btn {
   background-color: transparent;
-  color: #fff;
+  color:#0daeee;
   padding: 10px 30px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
@@ -117,7 +216,7 @@ a:hover {
 .btn-transparent:focus {
   background-color: #57cbcc;
   border: 1px solid transparent;
-  color: #fff;
+  color: #0daeee;
 }
 
 .border-meghna {
@@ -129,7 +228,7 @@ a:hover {
 }
 
 .border-meghna:before {
-  background-color: #fff;
+  background-color:#fff;
   content: '';
   height: 6px;
   left: 50%;
@@ -163,7 +262,7 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color:whitesmoke;
 }
 
 .bg-dark {
@@ -237,10 +336,13 @@ a:hover {
   margin-top: 20px;
 }
 
-.section {
+.section 
+{
   padding: 100px 0;
 }
 
+
+/* Add some content at the bottom of the video/page */
 @media (max-width: 480px) {
   .section {
     padding: 50px 0;
@@ -303,19 +405,19 @@ a:hover {
   text-transform: capitalize;
   font-weight: 700;
   font-size: 38px;
-  color: #fff;
+  color: #0daeee;
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: rgb(177, 22, 94);
 }
 
 .title p {
-  color: #666;
+  color:#0daeee;
 }
 
 .title.title-white h2 {
-  color: #fff;
+  color:#0daeee;
 }
 
 .bg-gray {
@@ -323,7 +425,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background:  rgb(80, 5, 40);
 }
 
 .overly {
@@ -346,13 +448,13 @@ a:hover {
 
 .header-bradcrumb a,
 .header-bradcrumb .active {
-  color: #cfcfcf;
+  color: #0daeee;
   font-weight: 200;
   font-family: "Quattrocento Sans", sans-serif;
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #0daeee;
 }
 
 .slick-slide {
@@ -394,7 +496,7 @@ a:hover {
 }
 
 .single-page-header:before {
-  background:#470230 ;
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
   content: '';
   top: 0;
@@ -407,16 +509,18 @@ a:hover {
   Navigation
 ==================================================================*/
 .navigation {
-  background-color: #470230;
+  background-color: rgb(80, 5, 40); ;
   width: 100%;
   margin-bottom: 0;
+  
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .show>.nav-link {
-  color: #57cbcc;
+  color: whitesmoke;
+  margin-left:0 auto;
 }
 
 .navbar-toggler:focus {
@@ -459,7 +563,7 @@ a:hover {
 }
 
 .hero-area .block .video-button {
-  background: #fff;
+  background:#0daeee;;
   color: #57cbcc;
   display: inline-block;
   height: 60px;
@@ -475,7 +579,7 @@ a:hover {
 
 .hero-area .block h1 {
   font-size: 90px;
-  color: #fff;
+  color:#0daeee;
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 20px;
@@ -536,7 +640,7 @@ a:hover {
 }
 
 .dark-bg {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgb(80, 5, 40) ;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -547,7 +651,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
+  background: whitesmoke;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
@@ -602,12 +706,12 @@ a:hover {
 
 .about .block .icon-box:after {
   bottom: -56.5685px;
-  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
-  border-left: 2px solid rgba(236, 239, 241, 0.07);
+  border-bottom: 2px solid purple;
+  border-left: 2px solid  rgb(80, 5, 40);
 }
 
 .about .block .icon-box h3 {
-  color: #afbac4;
+  color: #0daeee;
 }
 
 /*=================================================================
@@ -711,7 +815,7 @@ a:hover {
 }
 
 #contact-submit {
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid  rgb(80, 5, 40);;
   background: #57cbcc;
   padding: 12px 0;
   width: 100%;
@@ -848,7 +952,60 @@ a:hover {
   text-transform: uppercase;
   margin: 20px 0;
 }
+/*================================================================
+Donnation section
+=================================================================*/
+.donnation-item {
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  padding-bottom: 30px;
+  margin-bottom: 15px;
+}
 
+.donnation-title {
+  background-color: #292F36;
+  padding: 30px 0 20px;
+}
+
+.donnation-title h3 {
+  color: #57cbcc;
+  margin: 0 0 10px;
+  text-transform: uppercase;
+}
+
+.donnation-title p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.donnation-title .value {
+  color: #57cbcc;
+  font-size: 30px;
+}
+
+.donnation ul,
+.skill-bar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.donnation li {
+  padding: 10px 0;
+}
+
+.donnation li:last-child {
+  border-bottom: 1px solid rgba(236, 239, 241, 0.4);
+  margin-bottom: 20px;
+}
+
+.donnation li:nth-child(2n) {
+  background-color: #292F36;
+}
+
+.donnation li .btn {
+  text-transform: uppercase;
+  margin: 20px 0;
+}
 /*=================================================================
   Portfolio section
 ==================================================================*/
@@ -859,7 +1016,7 @@ a:hover {
 
 .portfolio-filter .btn {
   outline: 0;
-  border: 1px solid rgba(236, 239, 241, 0.07);
+  border: 1px solid  rgb(80, 5, 40);
   background: transparent;
   display: inline-block;
   font-size: 16px;
@@ -879,7 +1036,7 @@ a:hover {
 
 .portfolio-block:before {
   transition: all 0.3s ease-in-out;
-  background: white;
+  background:rgb(80, 2, 19);
   opacity: 0;
   top: 20px;
   right: 20px;
@@ -891,7 +1048,7 @@ a:hover {
 
 .portfolio-block img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
 .portfolio-block:hover:before {
@@ -938,17 +1095,14 @@ a:hover {
   border-radius: 30px;
 }
 
-.portfolio-block .caption .search-icon i {
-  line-height: 50px;
-}
-
 /*=================================================================
   Services section
 ==================================================================*/
-.service-block {
+.service-block 
+{
   padding: 60px 20px;
-  border-left: 1px solid rgba(236, 239, 241, 0.07);
-  border-top: 1px solid rgba(236, 239, 241, 0.07);
+  border-left: 1px solid  rgb(80, 5, 40);
+  border-top: 1px solid  rgb(80, 5, 40);
   margin-bottom: 40px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
@@ -1021,7 +1175,7 @@ a:hover {
   Our Team
 ==================================================================*/
 .team-member {
-  background-color: #292F36;
+  background-color: rgb(80, 5, 40);
   margin-bottom: 10px;
 }
 
@@ -2015,13 +2169,13 @@ figcaption {
 /*! Social sharing buttons from Sharingbuttons.io */
 .resp-sharing-button__link,
 .resp-sharing-button__icon {
-  display: inline-block
+  display: inline-block;
 }
 
 .resp-sharing-button__link {
   text-decoration: none;
   color: #fff;
-  margin: 0.5em
+  margin: 0.5em;
 }
 
 .resp-sharing-button {
@@ -2035,122 +2189,122 @@ figcaption {
   width: 1em;
   height: 1em;
   margin-right: 0.4em;
-  vertical-align: top
+  vertical-align: top;
 }
 
 .resp-sharing-button--small svg {
   margin: 0;
-  vertical-align: middle
+  vertical-align: middle;
 }
 
 /* Non solid icons get a stroke */
 .resp-sharing-button__icon {
   stroke: #fff;
-  fill: none
+  fill: none;
 }
 
 /* Solid icons get a fill */
 .resp-sharing-button__icon--solid,
 .resp-sharing-button__icon--solidcircle {
   fill: #fff;
-  stroke: none
+  stroke: none;
 }
 
 .resp-sharing-button--twitter {
-  background-color: #55acee
+  background-color: #55acee;
 }
 
 .resp-sharing-button--twitter:hover {
-  background-color: #2795e9
+  background-color: #2795e9;
 }
 
 .resp-sharing-button--pinterest {
-  background-color: #bd081c
+  background-color: #bd081c;
 }
 
 .resp-sharing-button--pinterest:hover {
-  background-color: #8c0615
+  background-color: #8c0615;
 }
 
 .resp-sharing-button--facebook {
-  background-color: #3b5998
+  background-color: #3b5998;
 }
 
 .resp-sharing-button--facebook:hover {
-  background-color: #2d4373
+  background-color: #2d4373;
 }
 
 .resp-sharing-button--tumblr {
-  background-color: #35465C
+  background-color: #35465C;
 }
 
 .resp-sharing-button--tumblr:hover {
-  background-color: #222d3c
+  background-color: #222d3c;
 }
 
 .resp-sharing-button--reddit {
-  background-color: #5f99cf
+  background-color: #5f99cf;
 }
 
 .resp-sharing-button--reddit:hover {
-  background-color: #3a80c1
+  background-color: #3a80c1;
 }
 
 .resp-sharing-button--google {
-  background-color: #dd4b39
+  background-color: #dd4b39;
 }
 
 .resp-sharing-button--google:hover {
-  background-color: #c23321
+  background-color: #c23321;
 }
 
 .resp-sharing-button--linkedin {
-  background-color: #0077b5
+  background-color: #0077b5;
 }
 
 .resp-sharing-button--linkedin:hover {
-  background-color: #046293
+  background-color: #046293;
 }
 
 .resp-sharing-button--email {
-  background-color: #777
+  background-color: #777;
 }
 
 .resp-sharing-button--email:hover {
-  background-color: #5e5e5e
+  background-color: #5e5e5e;
 }
 
 .resp-sharing-button--xing {
-  background-color: #1a7576
+  background-color: #1a7576;
 }
 
 .resp-sharing-button--xing:hover {
-  background-color: #114c4c
+  background-color: #114c4c;
 }
 
 .resp-sharing-button--whatsapp {
-  background-color: #25D366
+  background-color: #25D366;
 }
 
 .resp-sharing-button--whatsapp:hover {
-  background-color: #1da851
+  background-color: #1da851;
 }
 
 .resp-sharing-button--hackernews {
-  background-color: #FF6600
+  background-color: #FF6600;
 }
 
 .resp-sharing-button--hackernews:hover,
 .resp-sharing-button--hackernews:focus {
-  background-color: #FB6200
+  background-color: #FB6200;
 }
 
 .resp-sharing-button--vk {
-  background-color: #507299
+  background-color: #507299;
 }
 
 .resp-sharing-button--vk:hover {
-  background-color: #43648c
+  background-color: #43648c;
 }
 
 .resp-sharing-button--facebook {
@@ -2255,7 +2409,7 @@ figcaption {
 .pagination .page-item .page-link:hover {
   background: #57cbcc;
   border-color: #57cbcc;
-  color: #fff
+  color: #fff;
 }
 
 .pagination .page-item:first-child .page-link,
