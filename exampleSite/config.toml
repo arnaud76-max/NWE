@@ -32,12 +32,12 @@ poids = 2
 [[ menu . main ]]
 name = " Faire un don "
 pre = " # "
-url = " "
+url = " blog"
 poids = 3
 [[ menu . main ]]
 name = " Bureau des étudiants "
 pre = " # "
-url = " équipe "
+url = " team "
 poids =   4
 [[ menu . main ]]
 name = " Parrainer "
