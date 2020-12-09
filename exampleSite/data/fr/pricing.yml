@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Cotisation
   pricing_table:
-  - name: ''
+  - name: Annuelle
     price: 10€
     unit: ''
     services:
