@@ -1,0 +1,13 @@
+---
+cta:
+  enable: true
+  bg_image: "/images/fond.png"
+  bg_image_webp: "/images/fond.webp"
+  title: ''
+  content: ''
+  button:
+    enable: true
+    label: Start a project with us
+    link: "#contact"
+title: cta.yml-(copy)
+draft: true
