@@ -61,10 +61,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-      name: Emmanuel Mouanga-Zou
-    designation: Designer
-    - image_webp: images/team/team-3.webp
+  - name: Emmanuel Mouanga-Zou
+    image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
+    designation: Designer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus.
     social:
     - icon: ti-facebook
