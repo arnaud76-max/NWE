@@ -53,8 +53,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Amelie Mauger
-    image_webp: images/team/team-4.webp
-    image: images/team/team-4.jpg
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
     designation: Commercial
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
