@@ -48,7 +48,7 @@ partnair:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Business Card
-    image: ''
+    image: "/images/isd.png"
     image_webp: "/images/isd.webp"
     categories:
     - development
