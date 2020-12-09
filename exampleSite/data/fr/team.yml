@@ -3,6 +3,12 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: Gauthier Cauchois
     image_webp: "/images/photo6.webp"
     image: "/images/photo6.png"
@@ -61,10 +67,9 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Emmanuel Mouanga-zou
-    image_webp: "/images/photo6.webp"
+  - image_webp: "/images/photo6.webp"
     image: "/images/photo6.png"
-    designation: Designer
+    designation: Développeur
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -76,3 +81,4 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+    name: Arnaud Delahaye
