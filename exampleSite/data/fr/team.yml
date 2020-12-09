@@ -3,6 +3,12 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: Fabien Ghesquière
+    image_webp: ''
+    image: ''
+    designation: Community management
+    content: ''
+    social: ''
   - name: Gauthier Cauchois
     image_webp: ''
     image: ''
