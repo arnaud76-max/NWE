@@ -11,7 +11,7 @@ pricing:
     button:
       label: Signup
       link: "#"
-  - name: ''
+  - name: Annuelle
     price: 15€
     unit: ''
     services:
