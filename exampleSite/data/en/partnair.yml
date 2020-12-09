@@ -27,7 +27,7 @@ partnair:
     link: "#"
   - name: Bottol Label
     image: "/images/f2i.png"
-    image_webp: ''
+    image_webp: "/images/f2i.webp"
     categories:
     - photography
     - development
