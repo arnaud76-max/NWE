@@ -26,7 +26,7 @@ partnair:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
-    image: ''
+    image: "/images/f2i.png"
     image_webp: ''
     categories:
     - photography
