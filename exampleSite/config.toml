@@ -36,15 +36,15 @@ pre = "#"
 url = "blog"
 weight = 5
 [[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 4
-[[menu.main]]
 name = "Evènements"
 pre = "#"
 url = "portfolio"
 weight = 2
+[[menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 4
 [[menu.main]]
 name = "Membre du bureau"
 pre = "#"
