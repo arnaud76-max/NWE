@@ -35,7 +35,7 @@ partnair:
     link: "#"
   - name: ''
     image: "/images/greta.png"
-    image_webp: ''
+    image_webp: "/images/greta.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
