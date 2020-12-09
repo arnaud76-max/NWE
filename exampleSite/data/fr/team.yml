@@ -3,10 +3,10 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
-  - name: ''
+  - name: Gauthier Cauchois
     image_webp: ''
     image: ''
-    designation: ''
+    designation: Organisateur d'événements
     content: ''
     social: ''
   - name: Raphael Richard
