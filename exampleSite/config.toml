@@ -21,6 +21,16 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+name = "partnairt"
+pre = "#"
+url = "partnair"
+weight = 8
+[[menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 4
+[[menu.main]]
 name = "themefisher"
 pre = ""
 url = "https://themefisher.com/"
@@ -31,35 +41,25 @@ pre = "#"
 url = "contact"
 weight = 6
 [[menu.main]]
-name = "blog"
+name = "Parrainage"
 pre = "#"
 url = "blog"
 weight = 5
-[[menu.main]]
-name = "Evènements"
-pre = "#"
-url = "portfolio"
-weight = 2
-[[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 4
 [[menu.main]]
 name = "Membre du bureau"
 pre = "#"
 url = "team"
 weight = 3
 [[menu.main]]
+name = "Evènements"
+pre = "#"
+url = "portfolio"
+weight = 2
+[[menu.main]]
 name = "about"
 pre = "#"
 url = "about"
 weight = 1
-[[menu.main]]
-name = "partnairt"
-pre = "#"
-url = "partnair"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
