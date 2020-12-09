@@ -20,46 +20,46 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 7
-[[menu.main]]
-name = "contact"
-pre = "#"
-url = "contact"
-weight = 6
-[[menu.main]]
-name = "Nos partenaires"
-pre = "#"
-url = "partnair"
-weight = 8
-[[menu.main]]
-name = "Evènements"
-pre = "#"
-url = "portfolio"
-weight = 2
-[[menu.main]]
-name = "Parrainer"
-pre = "#"
-url = "blog"
-weight = 5
-[[menu.main]]
-name = "Contact"
-pre = "#"
-url = "contact"
-weight = 4
-[[menu.main]]
-name = "Membre du bureau"
-pre = "#"
-url = "team"
-weight = 3
-[[menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
+[[ menu . main ]]
+name = " Création de nos étudiants "
+pre = "# "
+poids = 1
+[[ menu . main ]]
+name = " Événements "
+pre = " #"
+url = " portfolio "
+poids = 2
+[[ menu . main ]]
+name = " Faire un don "
+pre = " # "
+url = " "
+poids = 3
+[[ menu . main ]]
+name = " Bureau des étudiants "
+pre = " # "
+url = " équipe "
+poids =   4
+[[ menu . main ]]
+name = " Parrainer "
+pre = " # "
+url = " témoignage "
+poids = 5
+[[ menu . main ]]
+name = " Nos partenaires "
+pre = " # "
+url = " partenaire "
+poids = 6
+[[ menu . main ]]
+name = " Cotisation "
+pre = " # "
+url = " don "
+poids = 7
+[[ menu . main ]]
+name = " Contact "
+pre = " # "
+url = " contact "
+poids = 8
+
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
