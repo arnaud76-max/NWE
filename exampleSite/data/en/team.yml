@@ -3,18 +3,6 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Raphael Richard
-    image_webp: ''
-    image: ''
-    designation: Trésorier
-    content: ''
-    social: ''
-  - name: 'Amelie Mauger '
-    image_webp: ''
-    image: ''
-    designation: Commercial
-    content: ''
-    social: ''
   - name: Gauthier Cauchois
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
@@ -30,6 +18,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: Raphael Richard
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
+    social: ''
   - name: Fabien Ghuesquière
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
@@ -45,6 +39,12 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: 'Amelie Mauger '
+    image_webp: ''
+    image: ''
+    designation: Commercial
+    content: ''
+    social: ''
   - image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
