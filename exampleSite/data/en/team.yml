@@ -3,6 +3,18 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Président / Développeur web
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: 
     image_webp: 
     image: 
@@ -18,9 +30,9 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: 
-    image_webp:
+    image_webp: 
     image: 
-    designation:
+    designation: 
     content: 
     social:
     - icon: ti-facebook
@@ -61,4 +73,3 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-
