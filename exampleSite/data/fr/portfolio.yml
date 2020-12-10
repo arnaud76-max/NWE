@@ -3,48 +3,49 @@ portfolio:
   enable: true
   title: Evénements
   portfolio_item:
-  - nom : 
+   - nom : 
       image : 
       image_webp : 
-      catégories : ["design"]
-      contenu :
-      lien : "# "
+      catégories : ["Evénements"]
+      contenu : 
+      lien : " # "
   - nom : 
-      image : 
+      image :
       image_webp : 
-      catégories : ["développement"]
-      contenu :
+      catégories : ["Evénements futurs"]
+      contenu : 
       lien : "#"
   - nom : 
       image : 
-      image_webp :
+      image_webp : 
       catégories : ["conception", "développement"]
       contenu : 
       lien : " # "
-  - nom : Bottol Label
+  - nom : 
       image : 
       image_webp :
       catégories : ["photographie", "développement"]
-      contenu : 
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
   - nom : 
       image : 
       image_webp : 
       catégories : ["design"]
-      contenu : 
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
   - nom : 
       image : 
-      image_webp : 
+      image_webp :
       catégories : ["photographie"]
-      contenu : 
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      lien : " # "
   - nom : 
       image : 
       image_webp : 
       catégories : ["développement"]
       contenu : 
       lien : " # "
-  - nom :
+  - nom : 
       image : 
       image_webp : 
       catégories : ["conception", "développement"]
@@ -52,7 +53,7 @@ portfolio:
       lien : " # "
   - nom : 
       image : 
-      image_webp :
+      image_webp : 
       catégories : ["design", "photographie"]
-      contenu : 
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
