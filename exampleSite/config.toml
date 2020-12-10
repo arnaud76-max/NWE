@@ -120,7 +120,7 @@ icon = "ti-linkedin"
 link = "#"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/normandie_web_events/?hl=fr"
 [[params.social]]
 icon = "ti-pinterest"
 link = "#"
