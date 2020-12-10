@@ -1,7 +1,7 @@
 ---
 donnation:
   enable: true
-  title: Don
+  title: Faire un don
   pricing_table:
   - name: 
     price: 10€
