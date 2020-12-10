@@ -3,10 +3,10 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
-  - name: Fabien Ghesquière
+  - name: Arnaud Delahaye
     image_webp: ''
     image: ''
-    designation: Community management
+    designation: Président / Développeur web
     content: ''
     social: ''
   - name: Raphael Richard
