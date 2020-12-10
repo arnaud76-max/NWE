@@ -36,27 +36,27 @@ pre = "#"
 url = "testimonial"
 [[menu.main]]
 name = "Bureau des étudiants"
-poids = 4
+poids = 6
 pre = "#"
 url = "team"
 [[menu.main]]
 name = "Parrainer"
-poids = 5
+poids = 4
 pre = "#"
 url = "blog"
 [[menu.main]]
 name = "Nos partenaires"
-poids = 6
+poids = 8
 pre = "#"
 url = "partnair"
 [[menu.main]]
 name = "Cotisation"
-poids = 7
+poids = 5
 pre = "#"
 url = "pricing"
 [[menu.main]]
 name = "Contact"
-poids = 8
+poids = 7
 pre = "#"
 url = "contact"
 [[menu.main]]
