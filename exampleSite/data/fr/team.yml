@@ -18,8 +18,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Raphael Richard
-    image_webp: ''
-    image: ''
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
     designation: Trésorier
     content: ''
     social:
