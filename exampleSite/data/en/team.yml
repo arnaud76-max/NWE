@@ -3,10 +3,22 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
-  - name: 
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Président / Développeur web
+    content: ''
+    social: ''
+  - name: Raphael Richard
+    image_webp: ''
+    image: ''
+    designation: Trésorier
+    content: ''
+    social: ''
+  - name: Fabien Ghesquière
     image_webp: 
     image: 
-    designation: 
+    designation: Community management
     content: 
     social:
     - icon: ti-facebook
@@ -17,10 +29,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: 
-    image_webp:
+  - name: 'Amelie Mauger '
+    image_webp: 
     image: 
-    designation:
+    designation: Commercial
     content: 
     social:
     - icon: ti-facebook
@@ -31,10 +43,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: 
+  - name: Gauthiers Cauchois
     image_webp: 
     image: 
-    designation: 
+    designation: Organisateur d'événements
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -46,10 +58,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: 
+  - name: Emmanuel Mouanga-Zou
     image_webp: 
     image: 
-    designation: 
+    designation: Designer
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -61,4 +73,3 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-
