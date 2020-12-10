@@ -9,64 +9,48 @@ portfolio:
       catégories : ["design"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : "# "
-      
-    # boucle d'élément de portefeuille
     - nom : Système audio
       image : images / portfolio / portfolio-2.jpg
       image_webp : images / portfolio / portfolio-2.webp
       catégories : ["développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : "#"
-      
-    # boucle d'élément de portefeuille
     - nom : Clock Product
       image : images / portfolio / portfolio-3.jpg
       image_webp : images / portfolio / portfolio-3.webp
       catégories : ["conception", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-    # boucle d'élément de portefeuille
     - nom : Bottol Label
       image : images / portfolio / portfolio-4.jpg
       image_webp : images / portfolio / portfolio-4.webp
       catégories : ["photographie", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-    # boucle d'élément de portefeuille
     - nom : Shopping Bag
       image : images / portfolio / portfolio-5.jpg
       image_webp : images / portfolio / portfolio-5.webp
       catégories : ["design"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-    # boucle d'élément de portefeuille
     - nom : Tag Design
       image : images / portfolio / portfolio-6.jpg
       image_webp : images / portfolio / portfolio-6.webp
       catégories : ["photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-    # boucle d'élément de portefeuille
     - nom : Carte de visite
       image : images / portfolio / portfolio-7.jpg
       image_webp : images / portfolio / portfolio-7.webp
       catégories : ["développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-    # boucle d'élément de portefeuille
     - nom : Conception stationnaire
       image : images / portfolio / portfolio-8.jpg
       image_webp : images / portfolio / portfolio-8.webp
       catégories : ["conception", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-    # boucle d'élément de portefeuille
     - nom : Tag Design
       image : images / portfolio / portfolio-2.jpg
       image_webp : images / portfolio / portfolio-2.webp
