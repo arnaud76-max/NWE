@@ -11,7 +11,6 @@ portofolio :
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : "#"
       
-  
     - nom : 
       image : 
       image_webp :
@@ -19,15 +18,13 @@ portofolio :
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : "#"
       
-    
     - nom : 
       image : 
       image_webp : 
       catégories : ["conception", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
- 
+    
     - nom : 
       image : 
       image_webp : 
@@ -35,7 +32,6 @@ portofolio :
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
       
-    
     - nom : 
       image : 
       image_webp : 
@@ -43,15 +39,13 @@ portofolio :
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
       
-    
     - nom : 
       image : 
       image_webp : 
       catégories : ["photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-      
-   
+
     - nom : 
       image : 
       image_webp : 
@@ -59,7 +53,6 @@ portofolio :
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
       
-  
     - nom : 
       image : 
       image_webp : 
