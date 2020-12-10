@@ -1,75 +1,28 @@
 ---
-portofolio :
-  activer : true
-  titre : Nos partenaires
-  portfolio_item :
-  
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["design"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : "#"
-      
-  
-    - nom : 
-      image : 
-      image_webp :
-      catégories : ["développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : "#"
-      
-    
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["conception", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
- 
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["photographie", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["design"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["photographie"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-   
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-  
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["conception", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    - nom :
-      image : 
-      image_webp :
-      catégories : ["design", "photographie"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
+portfolio:
+  portfolio_item:
+  - 
+  - 
+  - image_webp: "/images/halloween.webp"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+portofolio:
+  activer: true
+  titre: Evénements
+  portfolio_item:
+  - nom: Soirée halloween
+    image: ''
+    image_webp: ''
+    catégories: ''
+    contenu: ''
+    lien: ''
+  - nom: ''
+    image: ''
+    image_webp: ''
+    catégories: ''
+    contenu: ''
+    lien: ''
