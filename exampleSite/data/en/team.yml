@@ -3,6 +3,12 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Développeur web
+    content: ''
+    social: ''
   - name: Gauthiers Cauchois
     image_webp: 
     image: 
