@@ -40,14 +40,7 @@ partnair:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag Design
-    image: ''
-    image_webp: ''
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Business Card
+  - name: ''
     image: "/images/isd.png"
     image_webp: "/images/isd.webp"
     categories:
