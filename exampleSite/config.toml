@@ -20,50 +20,50 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[ menu . main ]]
+[[menu.main]]
 name = " Création de nos étudiants "
-pre = "# "
 poids = 1
-[[ menu . main ]]
+pre = "# "
+[[menu.main]]
 name = " Événements "
+poids = 2
 pre = " #"
 url = " portfolio "
-poids = 2
-[[ menu . main ]]
+[[menu.main]]
 name = " Faire un don "
+poids = 3
 pre = " # "
 url = " testimonial"
-poids = 3
-[[ menu . main ]]
+[[menu.main]]
 name = " Bureau des étudiants "
+poids = 4
 pre = " # "
 url = " team "
-poids =   4
-[[ menu . main ]]
+[[menu.main]]
 name = " Parrainer "
+poids = 5
 pre = " # "
 url = " blog "
-poids = 5
-[[ menu . main ]]
+[[menu.main]]
 name = " Nos partenaires "
+poids = 6
 pre = " # "
 url = " partnair "
-poids = 6
-[[ menu . main ]]
+[[menu.main]]
 name = " Cotisation "
+poids = 7
 pre = " # "
 url = " pricing "
-poids = 7
-[[ menu . main ]]
+[[menu.main]]
 name = " Contact "
+poids = 8
 pre = " # "
 url = " contact "
-poids = 8
-[[ menu . main ]]
+[[menu.main]]
 name = " Faire un don "
+poids = 9
 pre = " # "
 url = " donnation "
-poids = 9
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
@@ -108,7 +108,7 @@ enable = true
 preloader = "/images/logo_nwe_blanc.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/NormandieWebEvents"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
@@ -120,7 +120,4 @@ icon = "ti-linkedin"
 link = "#"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+link = "https://www.instagram.com/normandie_web_events/?hl=fr"
