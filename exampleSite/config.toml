@@ -110,14 +110,5 @@ preloader = "/images/logo_nwe_blanc.png"
 icon = "ti-facebook"
 link = "https://www.facebook.com/NormandieWebEvents"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
 icon = "ti-instagram"
 link = "https://www.instagram.com/normandie_web_events/?hl=fr"
