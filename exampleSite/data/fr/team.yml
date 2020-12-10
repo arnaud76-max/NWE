@@ -32,8 +32,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Fabien Ghesquière
-    image_webp: 
-    image: 
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
     designation: Community management
     content: 
     social:
