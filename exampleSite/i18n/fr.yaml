@@ -1,5 +1,6 @@
+---
 - id: blogTitle
-  translation: Dernier message
+  translation: Annonces de Parrainages
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
