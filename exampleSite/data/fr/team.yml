@@ -3,12 +3,34 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: Arnaud Delahaye
+    image_webp: ''
+    image: ''
+    designation: Président / Développeur web
+    content: ''
+    social: 
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
   - name: Raphael Richard
     image_webp: ''
     image: ''
     designation: Trésorier
     content: ''
-    social: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
   - name: Fabien Ghesquière
     image_webp: 
     image: 
@@ -21,8 +43,6 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: "#"
-    - icon: ti-dribbble
-      link: "#"
   - name: Amelie Mauger
     image_webp: 
     image: 
@@ -34,8 +54,6 @@ team:
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
       link: "#"
   - name: Gauthier Cauchois
     image_webp: 
@@ -64,6 +82,4 @@ team:
     - icon: ti-twitter-alt
       link: "#"
     - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
       link: "#"
