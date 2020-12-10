@@ -1,10 +1,10 @@
 ---
-title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
-author: John Doe
-description: This is meta description
+title: Exemple d'annonce
+date: 2020-12-10T12:18:36+00:00
+image_webp: "/images/ressources-creer-reseau-social-700x423.webp"
+image: "/images/ressources-creer-reseau-social-700x423.jpg"
+author: Arnaud Delahaye
+description: Projet créer un réseau social
 
 ---
 Bonjour, 
