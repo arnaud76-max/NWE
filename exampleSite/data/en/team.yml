@@ -22,7 +22,7 @@ team:
     image: ''
     designation: Trésorier
     content: ''
-    social: 
+    social:
     - icon: ti-facebook
       link: "#"
     - icon: ti-twitter-alt
@@ -46,8 +46,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: 'Amelie Mauger '
-    image_webp: 
-    image: 
+    image_webp: "/images/female-user-icon-7.webp"
+    image: "/images/female-user-icon-7.jpg"
     designation: Commercial
     content: 
     social:
