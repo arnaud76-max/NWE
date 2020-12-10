@@ -7,20 +7,30 @@ portfolio:
     image: 
     image_webp: 
     categories:
+  - name: 
+    image: 
+    image_webp: 
+    categories: 
+    content: 
+    link: 
+  - categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
- - name: 
+    link: 
+  - name: 
     image:
     image_webp: 
     categories:
-    - design
+     design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
-     - name: 
+    link: 
+  - name: 
     image: 
     image_webp: 
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
+    link: 
+    image: 
+    image_webp: 
+  
+
