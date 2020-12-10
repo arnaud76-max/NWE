@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   bg_image: "/images/fond.png"
-  bg_image_webp: ''
+  bg_image_webp: "/images/fond.webp"
   testimonial_item:
   - name: ''
     image: "/images/logo_nwe_blanc.png"
