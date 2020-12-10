@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: ''
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image: "/images/logo_nwe_blanc.png"
+    image_webp: "/images/logo_nwe_blanc.webp"
     date: ''
     content: |2-
 
