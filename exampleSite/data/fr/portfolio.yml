@@ -52,7 +52,7 @@ portfolio:
       lien : " # "
     - nom : 
       image : 
-      image_webp 
+      image_webp :
       catégories : ["design", "photographie"]
       contenu : 
       lien : " # "
