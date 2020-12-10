@@ -4,24 +4,12 @@ testimonial:
   bg_image: "/images/logo_nwe_blanc.png"
   bg_image_webp: "/images/logo_nwe_blanc.webp"
   testimonial_item:
-  - name: Jonathon Andrew
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  - name: Mark Dinn
-    image: images/client/client-2.jpg
-    image_webp: images/client/client-2.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-  - name: Lemos Kail
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
-    date: Dec 26, 2018
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium
-      minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi
-      aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name: ''
+    image: ''
+    image_webp: ''
+    date: ''
+    content: |-
+      la NWE (Normandie, Web Event) est une association étudiante qui a pour but de créer et de  resserrer les liens entre les  étudiants  de la NWS à travers divers  événements.
+
+      Faire un don, c’est être un membre de l’équipe, en participant à la vie de la NWE  et en contribuant aux projets de notre association.
+      Donnez ce que vous voulez !
