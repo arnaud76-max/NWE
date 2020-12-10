@@ -1191,6 +1191,7 @@ Donnation section
 .member-photo {
   overflow: hidden;
   position: relative;
+  width:40px;
 }
 
 @media (max-width: 768px) {
@@ -1240,7 +1241,7 @@ Donnation section
   color: #fff;
   display: block;
   font-size: 20px;
-  height: 35px;
+  height: 25px;
   line-height: 35px;
   text-align: center;
   width: 35px;
