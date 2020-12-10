@@ -82,8 +82,7 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-<<<<<<< HEAD
-       - name: 
+  - name: 
     image_webp: 
     image: 
     designation:
@@ -99,5 +98,4 @@ team:
     - icon: ti-dribbble
       link: "#"
  
-=======
->>>>>>> c08a793fd194e9c3007c1fe0322b89c958020bce
+
