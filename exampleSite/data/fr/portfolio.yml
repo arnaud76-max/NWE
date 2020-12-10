@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Evénements
   portfolio_item:
-   - nom : 
+    - nom : 
       image : 
       image_webp : 
       catégories : ["design"]
