@@ -3,16 +3,10 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
-  - name: Arnaud Delahaye
-    image_webp: ''
-    image: ''
-    designation: Développeur web
-    content: ''
-    social: ''
-  - name: Gauthiers Cauchois
+  - name: 
     image_webp: 
     image: 
-    designation: Organisateur d'événements
+    designation: 
     content: 
     social:
     - icon: ti-facebook
@@ -23,10 +17,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Fabien Ghuesquière
-    image_webp: 
+  - name: 
+    image_webp:
     image: 
-    designation: Community management
+    designation:
     content: 
     social:
     - icon: ti-facebook
@@ -37,10 +31,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Raphael Richard
+  - name: 
     image_webp: 
     image: 
-    designation: Trésorier
+    designation: 
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -52,25 +46,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Amélie Mauger
+  - name: 
     image_webp: 
     image: 
-    designation: Commercial
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-    - icon: ti-dribbble
-      link: "#"
-  - name: Emmanuel Mouanga-Zou
-    image_webp: 
-    image: 
-    designation: Designer
+    designation: 
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
@@ -97,5 +76,21 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
- 
+      - name: 
+    image_webp: 
+    image: 
+    designation:
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
+      ullam, culpa odio.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  
 
+  
