@@ -4,8 +4,8 @@ portfolio:
   title: Evénements
   portfolio_item:
   - name: Tag Design
-    image: images/portfolio/portfolio-1.jpg
-    image_webp: images/portfolio/portfolio-1.webp
+    image: "/images/halloween-2.jpg"
+    image_webp: "/images/halloween-2.webp"
     categories:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
