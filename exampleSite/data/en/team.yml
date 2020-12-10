@@ -3,6 +3,12 @@ team:
   enable: true
   title: 'Les membres du bureau '
   team_member:
+  - name: Emmanuel Mouanga-Zou
+    image_webp: ''
+    image: ''
+    designation: Designer
+    content: ''
+    social: ''
   - name: ''
     image_webp: ''
     image: ''
