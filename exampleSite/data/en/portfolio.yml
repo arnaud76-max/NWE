@@ -8,7 +8,7 @@ portfolio:
       image_webp: "/images/halloween.webp"
       catégories:
       - Evénements
-      contenu: 
+      contenu: Soirée Halloween
       lien: " # "
   - nom:
       image: 
