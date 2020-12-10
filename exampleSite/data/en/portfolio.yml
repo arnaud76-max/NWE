@@ -1,45 +1,47 @@
 ---
-portfolio:
-  enable: true
-  title: Evénements
-  portfolio_item:
+portofolio :
+  enable : true
+  titre : Nos partenaires
+  portfolio_item :
+  
     - nom : 
       image : 
       image_webp : 
-      catégories : ["Evénements"]
-      contenu : 
-      lien : " # "
-    - nom : 
-      image :
-      image_webp : 
-      catégories : ["Evénements futurs"]
-      contenu : 
+      catégories : ["design"]
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : "#"
-
+      
+    - nom : 
+      image : 
+      image_webp :
+      catégories : ["développement"]
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      lien : "#"
+      
     - nom : 
       image : 
       image_webp : 
       catégories : ["conception", "développement"]
-      contenu : 
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-
+    
     - nom : 
       image : 
-      image_webp :
+      image_webp : 
       catégories : ["photographie", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-
+      
     - nom : 
       image : 
       image_webp : 
       catégories : ["design"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-
+      
     - nom : 
       image : 
-      image_webp :
+      image_webp : 
       catégories : ["photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
@@ -48,19 +50,19 @@ portfolio:
       image : 
       image_webp : 
       catégories : ["développement"]
-      contenu : 
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-
+      
     - nom : 
       image : 
       image_webp : 
       catégories : ["conception", "développement"]
-      contenu :
+      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-
-    - nom : 
+      
+    - nom :
       image : 
-      image_webp : 
+      image_webp :
       catégories : ["design", "photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
