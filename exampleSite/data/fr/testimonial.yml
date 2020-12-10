@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: "/images/logo_nwe_blanc.webp"
   testimonial_item:
   - name: ''
-    image: ''
-    image_webp: ''
+    image: "/images/logo_nwe_blanc.png"
+    image_webp: "/images/logo_nwe_blanc.webp"
     date: ''
     content: |-
       la NWE (Normandie, Web Event) est une association étudiante qui a pour but de créer et de  resserrer les liens entre les  étudiants  de la NWS à travers divers  événements.
