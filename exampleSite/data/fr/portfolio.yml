@@ -4,8 +4,8 @@ portofolio:
   titre: Nos partenaires
   portfolio_item:
   - nom: Soirée Halloween
-    image: 
-    image_webp: 
+    image: "/images/halloween.png"
+    image_webp: "/images/halloween.webp"
     catégories:
     - design
     contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
