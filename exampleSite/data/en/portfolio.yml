@@ -3,11 +3,13 @@ portfolio:
   enable: true
   title: Evénements
   portfolio_item:
-  - name: Soirée halloween
-    image: "/images/halloween.png"
-    image_webp: "/images/halloween-2.webp"
-    categories:
-    - design
-    - photography
+  - name: ''
+    image: ''
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
+    name: Invité surprise
