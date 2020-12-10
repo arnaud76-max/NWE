@@ -1,6 +1,7 @@
+---
 partnair:
   enable: true
-  title: partnair
+  title: Nos partenaires
   portfolio_item:
   - name: ''
     image: "/images/logo-metropole.jpg"
