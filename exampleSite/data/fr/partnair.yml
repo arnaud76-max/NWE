@@ -47,11 +47,3 @@ partnair:
     - development
     content: ''
     link: "#"
-  - name: ''
-    image: "/images/nws-copie.png"
-    image_webp: "/images/nws-copie.webp"
-    categories:
-    - design
-    - photography
-    content: ''
-    link: "#"
