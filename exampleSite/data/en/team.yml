@@ -60,8 +60,8 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: Gauthiers Cauchois
-    image_webp: 
-    image: 
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
     designation: Organisateur d'événements
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
