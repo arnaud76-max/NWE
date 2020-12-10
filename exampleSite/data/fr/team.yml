@@ -44,8 +44,8 @@ team:
     - icon: ti-linkedin
       link: "#"
   - name: Amelie Mauger
-    image_webp: 
-    image: 
+    image_webp: "/images/female-user-icon-7.webp"
+    image: "/images/female-user-icon-7.jpg"
     designation: Commercial
     content: 
     social:
