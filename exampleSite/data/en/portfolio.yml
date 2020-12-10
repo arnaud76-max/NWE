@@ -3,57 +3,57 @@ portfolio:
   enable: true
   title: Evénements
   portfolio_item:
-   - nom : Tag Design
-      image : images / portfolio / portfolio-1.jpg
-      image_webp : images / portfolio / portfolio-1.webp
-      catégories : ["design"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - nom : Tag Design
+      image : 
+      image_webp : 
+      catégories : ["Evénements"]
+      contenu : 
       lien : " # "
-    - nom : Système audio
-      image : images / portfolio / portfolio-2.jpg
-      image_webp : images / portfolio / portfolio-2.webp
-      catégories : ["développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " "
-    - nom : Clock Product
-      image : images / portfolio / portfolio-3.jpg
-      image_webp : images / portfolio / portfolio-3.webp
+    - nom : 
+      image :
+      image_webp : 
+      catégories : ["Evénements futurs"]
+      contenu : 
+      lien : "#"
+    - nom : 
+      image : 
+      image_webp : 
       catégories : ["conception", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      contenu : 
       lien : " # "
-    - nom : Bottol Label
-      image : images / portfolio / portfolio-4.jpg
-      image_webp : images / portfolio / portfolio-4.webp
+    - nom : 
+      image : 
+      image_webp :
       catégories : ["photographie", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-    - nom : Shopping Bag
-      image : images / portfolio / portfolio-5.jpg
-      image_webp : images / portfolio / portfolio-5.webp
+    - nom : 
+      image : 
+      image_webp : 
       catégories : ["design"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-    - nom : Tag Design
-      image : images / portfolio / portfolio-6.jpg
-      image_webp : images / portfolio / portfolio-6.webp
+    - nom : 
+      image : 
+      image_webp :
       catégories : ["photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-    - nom : Carte de visite
-      image : images / portfolio / portfolio-7.jpg
-      image_webp : images / portfolio / portfolio-7.webp
+    - nom : 
+      image : 
+      image_webp : 
       catégories : ["développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      contenu : 
       lien : " # "
-    - nom : Conception stationnaire
-      image : images / portfolio / portfolio-8.jpg
-      image_webp : images / portfolio / portfolio-8.webp
+    - nom : 
+      image : 
+      image_webp : 
       catégories : ["conception", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      contenu :
       lien : " # "
-    - nom : Tag Design
-      image : images / portfolio / portfolio-2.jpg
-      image_webp : images / portfolio / portfolio-2.webp
+    - nom : 
+      image : 
+      image_webp : 
       catégories : ["design", "photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
