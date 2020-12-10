@@ -8,7 +8,7 @@ portofolio:
     image_webp: "/images/halloween.webp"
     catégories:
     - design
-    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    contenu: ''
     lien: "#"
   - nom: L'invité surprise
     image: "/images/img-20201210-wa0003.jpg"
