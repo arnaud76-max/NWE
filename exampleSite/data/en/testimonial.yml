@@ -1,7 +1,7 @@
 ---
 testimonial:
   enable: true
-  bg_image: ''
+  bg_image: "/images/fond.png"
   bg_image_webp: ''
   testimonial_item:
   - name: ''
