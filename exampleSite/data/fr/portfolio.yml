@@ -1,6 +1,6 @@
 ---
 portofolio :
-  activer : true
+  enable : true
   titre : Nos partenaires
   portfolio_item :
   
