@@ -1,68 +1,72 @@
 ---
-portofolio :
-  enable : true
-  titre : Nos partenaires
-  portfolio_item :
-  
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["design"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : "#"
-      
-    - nom : 
-      image : 
-      image_webp :
-      catégories : ["développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : "#"
-      
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["conception", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-    
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["photographie", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["design"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["photographie"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    - nom : 
-      image : 
-      image_webp : 
-      catégories : ["conception", "développement"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
-      
-    - nom :
-      image : 
-      image_webp :
-      catégories : ["design", "photographie"]
-      contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " # "
+portofolio:
+  enable: true
+  titre: Nos partenaires
+  portfolio_item:
+  - nom: Soirée Halloween
+    image: "/images/halloween.png"
+    image_webp: "/images/halloween.webp"
+    catégories:
+    - design
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: "#"
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: "#"
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - conception
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - photographie
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - design
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - photographie
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - conception
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - design
+    - photographie
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
