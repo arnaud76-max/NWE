@@ -2,7 +2,8 @@
 portfolio:
   portfolio_item:
   - nom:
-      image: ''
+      image: "/images/halloween.png"
+      image_webp: "/images/halloween.webp"
   - nom:
       image: "/images/img-20201210-wa0003.jpg"
       image_webp: "/images/img-20201210-wa0003.webp"
