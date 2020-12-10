@@ -8,7 +8,7 @@ portfolio:
       image_webp : images / portfolio / portfolio-1.webp
       catégories : ["design"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      lien : " https://themefisher.com "
+      lien : " # "
       
     # boucle d'élément de portefeuille
     - nom : Système audio
