@@ -3,55 +3,55 @@ portfolio:
   enable: true
   title: Evénements
   portfolio_item:
-    - nom : Tag Design
+  - nom : 
       image : 
       image_webp : 
       catégories : ["Evénements"]
       contenu : 
       lien : " # "
-    - nom : 
+  - nom : 
       image :
       image_webp : 
       catégories : ["Evénements futurs"]
       contenu : 
       lien : "#"
-    - nom : 
+  - nom : 
       image : 
       image_webp : 
       catégories : ["conception", "développement"]
       contenu : 
       lien : " # "
-    - nom : 
+  - nom : 
       image : 
       image_webp :
       catégories : ["photographie", "développement"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-    - nom : 
+  - nom : 
       image : 
       image_webp : 
       catégories : ["design"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-    - nom : 
+  - nom : 
       image : 
       image_webp :
       catégories : ["photographie"]
       contenu : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       lien : " # "
-    - nom : 
+  - nom : 
       image : 
       image_webp : 
       catégories : ["développement"]
       contenu : 
       lien : " # "
-    - nom : 
+  - nom : 
       image : 
       image_webp : 
       catégories : ["conception", "développement"]
       contenu :
       lien : " # "
-    - nom : 
+  - nom : 
       image : 
       image_webp : 
       catégories : ["design", "photographie"]
