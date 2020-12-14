@@ -21,9 +21,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "Création de nos étudiants"
+name = "Créations de nos étudiants"
 poids = 1
 pre = "#"
+url =""
 [[menu.main]]
 name = "Événements"
 poids = 2
