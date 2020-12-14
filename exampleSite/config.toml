@@ -1,6 +1,7 @@
 baseURL = "https://examplesite.com"
 disableLanguages = []
 disqusShortname = ""
+draft = true
 paginate = "9"
 summaryLength = "15"
 theme = "meghna-hugo"
@@ -21,52 +22,44 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "Contact"
-poids = 7
+name = "Créations de nos étudiants"
+poids = 1
 pre = "#"
-url = "contact"
-weight = 1
-[[menu.main]]
-name = "Cotisation"
-poids = 5
-pre = "#"
-url = "pricing"
-weight = 2
-[[menu.main]]
-name = "Nos partenaires"
-poids = 8
-pre = "#"
-url = "partnair"
-weight = 3
-[[menu.main]]
-name = "Parrainer"
-poids = 4
-pre = "#"
-url = "blog"
-weight = 4
-[[menu.main]]
-name = "Bureau des étudiants"
-poids = 6
-pre = "#"
-url = "team"
-weight = 5
-[[menu.main]]
-name = "Faire un don"
-poids = 9
-pre = "#"
-url = "donnation"
-weight = 6
 [[menu.main]]
 name = "Événements"
 poids = 2
 pre = "#"
 url = "portfolio"
-weight = 7
 [[menu.main]]
-name = "Création de nos étudiants"
-poids = 1
+name = "Faire un don"
+poids = 3
 pre = "#"
-weight = 8
+url = "testimonial"
+[[menu.main]]
+name = "Bureau des étudiants"
+poids = 6
+pre = "#"
+url = "team"
+[[menu.main]]
+name = "Parrainer"
+poids = 4
+pre = "#"
+url = "blog"
+[[menu.main]]
+name = "Nos partenaires"
+poids = 8
+pre = "#"
+url = "partnair"
+[[menu.main]]
+name = "Cotisation"
+poids = 5
+pre = "#"
+url = "pricing"
+[[menu.main]]
+name = "Contact"
+poids = 7
+pre = "#"
+url = "contact"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
