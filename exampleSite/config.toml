@@ -21,49 +21,52 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "Création de nos étudiants"
-poids = 1
+name = "Contact"
+poids = 7
 pre = "#"
-[[menu.main]]
-name = "Événements"
-poids = 2
-pre = "#"
-url = "portfolio"
-[[menu.main]]
-name = "Faire un don"
-poids = 3
-pre = "#"
-url = "testimonial"
-[[menu.main]]
-name = "Bureau des étudiants"
-poids = 6
-pre = "#"
-url = "team"
-[[menu.main]]
-name = "Parrainer"
-poids = 4
-pre = "#"
-url = "blog"
-[[menu.main]]
-name = "Nos partenaires"
-poids = 8
-pre = "#"
-url = "partnair"
+url = "contact"
+weight = 1
 [[menu.main]]
 name = "Cotisation"
 poids = 5
 pre = "#"
 url = "pricing"
+weight = 2
 [[menu.main]]
-name = "Contact"
-poids = 7
+name = "Nos partenaires"
+poids = 8
 pre = "#"
-url = "contact"
+url = "partnair"
+weight = 3
+[[menu.main]]
+name = "Parrainer"
+poids = 4
+pre = "#"
+url = "blog"
+weight = 4
+[[menu.main]]
+name = "Bureau des étudiants"
+poids = 6
+pre = "#"
+url = "team"
+weight = 5
 [[menu.main]]
 name = "Faire un don"
 poids = 9
 pre = "#"
 url = "donnation"
+weight = 6
+[[menu.main]]
+name = "Événements"
+poids = 2
+pre = "#"
+url = "portfolio"
+weight = 7
+[[menu.main]]
+name = "Création de nos étudiants"
+poids = 1
+pre = "#"
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
