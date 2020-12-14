@@ -40,6 +40,7 @@ name = "Parrainer"
 poids = 6
 pre = "#"
 url = "blog"
+weight = 4
 [[menu.main]]
 name = "Nos partenaires"
 poids = 7
