@@ -44,7 +44,7 @@ url = "blog"
 name = "Nos partenaires"
 poids = 5
 pre = "#"
-url =  partnair"
+url =  "partnair"
 [[menu.main]]
 name = "Faire un don"
 poids = 6
