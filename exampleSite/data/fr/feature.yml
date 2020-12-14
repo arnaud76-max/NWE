@@ -1,0 +1,8 @@
+---
+feature:
+  enable: false
+  image: "/images/fond.png"
+  image_webp: "/images/fond.webm"
+  title: ''
+  content: ''
+  feature_item: []

@@ -1,0 +1,49 @@
+---
+partnair:
+  enable: true
+  title: Nos partenaires
+  portfolio_item:
+  - name: ''
+    image: "/images/logo-metropole.jpg"
+    image_webp: "/images/logo-metropole-copie.webp"
+    categories:
+    - design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: https://themefisher.com
+  - name: ''
+    image: "/images/nwx-e1549538125325.png"
+    image_webp: "/images/nwx-e1549538125325.webp"
+    categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: ''
+  - name: ''
+    image: "/images/nws-copie.png"
+    image_webp: "/images/nws-copie.webp"
+    categories:
+    - design
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: ''
+    image: "/images/f2i.png"
+    image_webp: "/images/f2i.webp"
+    categories:
+    - photography
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: ''
+    image: "/images/greta.png"
+    image_webp: "/images/greta.webp"
+    categories:
+    - design
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"
+  - name: ''
+    image: "/images/isd.png"
+    image_webp: "/images/isd.webp"
+    categories:
+    - development
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    link: "#"

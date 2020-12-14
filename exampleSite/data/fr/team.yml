@@ -1,0 +1,83 @@
+---
+team:
+  enable: true
+  title: 'Les membres du bureau '
+  team_member:
+  - name: Arnaud Delahaye
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
+    designation: Président / Développeur web
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Raphael Richard
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
+    designation: Trésorier
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Fabien Ghesquière
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
+    designation: Community management
+    content: 
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+  - name: Amelie Mauger
+    image_webp: "/images/female-user-icon-7.webp"
+    image: "/images/female-user-icon-7.jpg"
+    designation: Commercial
+    content: 
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+  - name: Gauthier Cauchois
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
+    designation: Organisateur d'événements
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Emmanuel Mouanga-Zou
+    image_webp: "/images/photo6.webp"
+    image: "/images/photo6.png"
+    designation: Designer
+    content: ''
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"

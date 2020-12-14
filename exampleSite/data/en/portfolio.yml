@@ -1,0 +1,72 @@
+---
+portofolio:
+  enable: true
+  titre: Evénements
+  portfolio_item:
+  - nom: Soirée Halloween
+    image: "/images/halloween.png"
+    image_webp: "/images/halloween.webp"
+    catégories:
+    - design
+    contenu: ''
+    lien: "#"
+  - nom: L'invité surprise
+    image: "/images/img-20201210-wa0003.jpg"
+    image_webp: "/images/img-20201210-wa0003.webp"
+    catégories:
+    - développement
+    contenu: ''
+    lien: "#"
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - conception
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - photographie
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - design
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - photographie
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - conception
+    - développement
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "
+  - nom: 
+    image: 
+    image_webp: 
+    catégories:
+    - design
+    - photographie
+    contenu: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    lien: " # "

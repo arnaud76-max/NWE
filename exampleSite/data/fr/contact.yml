@@ -1,0 +1,23 @@
+---
+contact:
+  enable: true
+  title: Contact Us
+  subtitle: Contact Details
+  content: ''
+  contact_list:
+  - icon: ti-location-pin
+    info: 72 Rue de la République, 76140 Le Petit-Quevilly
+  - icon: ti-mobile
+    info: 'Téléphone:  02 79 02 73 78'
+  - icon: ti-printer
+    info: 'Fax: +880-31-000-000'
+  - icon: ti-email
+    info: 'Email: adelahaye@normandiewebschool.fr'
+  contact_form:
+    enable: true
+    form_action: "#"
+    name: votre nom
+    email: Votre email
+    subject: Matière
+    message: Message
+    submit: Soumettre

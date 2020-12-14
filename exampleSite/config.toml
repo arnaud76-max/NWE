@@ -1,0 +1,114 @@
+baseURL = "https://examplesite.com"
+disableLanguages = []
+disqusShortname = ""
+paginate = "9"
+summaryLength = "15"
+theme = "meghna-hugo"
+themesDir = "../.."
+title = "NWE"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[Languages.fr]
+contentDir = "content/french"
+copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[menu.main]]
+name = "Création de nos étudiants"
+poids = 1
+pre = "#"
+[[menu.main]]
+name = "Événements"
+poids = 2
+pre = "#"
+url = "portfolio"
+[[menu.main]]
+name = "Faire un don"
+poids = 3
+pre = "#"
+url = "testimonial"
+[[menu.main]]
+name = "Bureau des étudiants"
+poids = 6
+pre = "#"
+url = "team"
+[[menu.main]]
+name = "Parrainer"
+poids = 4
+pre = "#"
+url = "blog"
+[[menu.main]]
+name = "Nos partenaires"
+poids = 8
+pre = "#"
+url = "partnair"
+[[menu.main]]
+name = "Cotisation"
+poids = 5
+pre = "#"
+url = "pricing"
+[[menu.main]]
+name = "Contact"
+poids = 7
+pre = "#"
+url = "contact"
+[[menu.main]]
+name = "Faire un don"
+poids = 9
+pre = "#"
+url = "donnation"
+[params]
+author = "Themefisher"
+description = "Responsive Multipurpose Parallax Hugo Template"
+google_analytics_id = ""
+logo = "/images/logo_nwe_blanc.png"
+post_share = true
+[params.cookies]
+enable = false
+expire_days = 2
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+[params.preloader]
+enable = true
+preloader = "/images/logo_nwe_blanc.png"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/NormandieWebEvents"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/normandie_web_events/?hl=fr"

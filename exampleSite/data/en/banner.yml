@@ -1,0 +1,12 @@
+---
+banner:
+  enable: true
+  bg_image_webp: "/images/fond-copie.webp"
+  bg_image: "/images/fond-copie.png"
+  icon: ''
+  title: Bienvenue sur le site de la NWE
+  content: ''
+  button:
+    enable: true
+    label: Explore Us
+    link: "#services"
