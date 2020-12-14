@@ -87,8 +87,8 @@ jQuery(function ($) {
 			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
 			if (target.length) {
 				html_body.animate({
-					scrollTop: target.offset().top - 60
-				}, 1500, 'easeInOutExpo');
+					scrollTop: target.offset().top - 200
+				}, 3000, 'easeInOutExpo');
 				return false;
 			}
 		}
