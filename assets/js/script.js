@@ -88,7 +88,7 @@ jQuery(function ($) {
 			if (target.length) {
 				html_body.animate({
 					scrollTop: target.offset().top - 60
-				}, 500, 'easeInOutExpo');
+				}, 100, 'easeInOutExpo');
 				return false;
 			}
 		}
