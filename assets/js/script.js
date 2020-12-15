@@ -87,8 +87,8 @@ jQuery(function ($) {
 			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
 			if (target.length) {
 				html_body.animate({
-					scrollTop: target.offset().top - 40
-				}, 60, 'easeInOutExpo');
+					scrollTop: target.offset().top - 50
+				}, 1500, 'easeInOutExpo');
 				return false;
 			}
 		}
@@ -104,9 +104,9 @@ jQuery(function ($) {
 				return b + c;
 			}
 			if ((t /= d / 2) < 1) {
-				return c / 2 * Math.pow(2, 10 * (t - 1)) + b;
+				return c / 2 * Math.pow(2, 20 * (t - 1)) + b;
 			}
-			return c / 2 * (-Math.pow(2, -10 * --t) + 2) + b;
+			return c / 2 * (-Math.pow(2, -20 * --t) + 2) + b;
 		}
 	});
 
