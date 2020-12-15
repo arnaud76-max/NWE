@@ -87,7 +87,7 @@ jQuery(function ($) {
 			target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
 			if (target.length) {
 				html_body.animate({
-					scrollTop: target.offset().top - 2000
+					scrollTop: target.offset().top - 40
 				}, 100, 'easeInOutExpo');
 				return false;
 			}
