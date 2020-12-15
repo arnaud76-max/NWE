@@ -36,13 +36,8 @@ p {
 }
 
 [scroll-behavior=smooth] {
-  scroll-behavior: auto;
 scroll-behavior: smooth;
 
-/* Valeurs globales */
-scroll-behavior: inherit;
-scroll-behavior: initial;
-scroll-behavior: unset;
 }
 
 pre {
