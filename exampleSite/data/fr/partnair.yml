@@ -24,10 +24,8 @@ partnair:
   - name: ''
     image: "/images/f2i.png"
     image_webp: "/images/f2i.webp"
-    categories:
-    - photography
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: ''
     link: "#"
   - name: ''
     image: "/images/greta.png"
