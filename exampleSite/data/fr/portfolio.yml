@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Evénements
+  title: Événements
   portfolio_item:
   - nom: Soirée Halloween
     image: "/images/halloween.png"

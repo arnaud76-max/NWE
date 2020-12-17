@@ -1,3 +1,4 @@
+---
 donnation:
   enable: true
   title: Faire un don
@@ -5,32 +6,28 @@ donnation:
   - name: 
     price: 10€
     unit: ''
-    services:
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#"
   - name: 
     price: 15€
     unit: ''
-    services:
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#"
   - name: 
     price: 20€
     unit: ''
-    services:
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#"
   - name: 
     price: 30€
     unit: ''
-    services:
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#"
