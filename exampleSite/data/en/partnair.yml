@@ -36,7 +36,6 @@ partnair:
   - name: ''
     image: "/images/isd.png"
     image_webp: "/images/isd.webp"
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: ''
     link: "#"
