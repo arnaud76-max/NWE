@@ -6,6 +6,6 @@ cta:
   title: ''
   content: ''
   button:
-    enable: true
+    enable: false
     label: ''
     link: "#contact"
