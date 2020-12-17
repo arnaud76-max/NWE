@@ -6,10 +6,9 @@ partnair:
   - name: ''
     image: "/images/logo-metropole.jpg"
     image_webp: "/images/logo-metropole-copie.webp"
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
+    categories: []
+    content: ''
+    link: "#"
   - name: ''
     image: "/images/nwx-e1549538125325.png"
     image_webp: "/images/nwx-e1549538125325.webp"
