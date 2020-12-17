@@ -20,16 +20,14 @@ pricing:
   - name: Anuelle
     price: 20€
     unit: ''
-    services:
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#"
   - name: Annuelle
     price: 30€
     unit: ''
-    services:
-    - 24/7 Tech Support
+    services: []
     button:
       label: Signup
       link: "#"
