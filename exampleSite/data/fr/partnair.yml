@@ -19,7 +19,7 @@ partnair:
     image: "/images/nws-copie.png"
     image_webp: "/images/nws-copie.webp"
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: ''
     link: "#"
   - name: ''
     image: "/images/f2i.png"
