@@ -15,4 +15,4 @@ J'ai l'ambition de créer un projet de réseau social spécifique aux étudiants
 
 Si le projet vous intérresse.
 
-contacter moi aux numéro ou au mail suivant
+contacter moi aux numéro ou au mail suivant !
